@@ -5,7 +5,7 @@
 
 <table align="center">
 <tr boarder="none">
-<td width="50%" align="left">
+<td width="60%" align="left">
 
 - 🌱 I’m currently learning **React Native, Android, IOS**
 
