@@ -30,14 +30,13 @@
 
 <h3 align="center">My Statistics:</h3>
 <p align="center">
-    <table align="center">
-        <tr border="none">
-            <td width="50%" align="center">
-
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
 <img align="center"src="https://github-readme-stats.vercel.app/api?username=savidya9800&show_icons=true&locale=en" alt="savidya9800" />
 <br><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=savidya9800&" alt="savidya9800" />               
-            </td>
+</td>
 <td width="50%" align="center">
 
 <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=savidya9800&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
