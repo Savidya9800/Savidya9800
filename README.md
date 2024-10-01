@@ -11,7 +11,7 @@
 
 - 👨‍💻 I’m an Undergraduate at **SLIIT**
 
-- 💬 Ask me about **Web [Java , PHP]**
+- 💬 Ask me about **Web [MERN, Java , PHP]**
 
 - 📫 How to reach me **Savidyajayalath@icloud.com**
 
