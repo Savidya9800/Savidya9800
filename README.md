@@ -7,7 +7,7 @@
 <tr boarder="none">
 <td width="60%" align="left">
 
-- 🌱 I’m currently learning **React Native, Android, IOS**
+- 🌱 I’m currently learning **MERN**
 
 - 👨‍💻 I’m an Undergraduate at **SLIIT**
 
