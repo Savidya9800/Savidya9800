@@ -100,7 +100,7 @@
 
 <p align="center">
   <!-- Shields Twitter badge: update handle (no spaces) -->
-  <a href="https://twitter.com/savidya_jayalath" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/savidya-jayalath-77385b189" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/twitter/follow/savidya_jayalath?logo=twitter&style=for-the-badge" alt="Twitter follow badge" loading="lazy" />
   </a>
 </p>
