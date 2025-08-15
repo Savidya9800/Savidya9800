@@ -55,7 +55,6 @@
     <td width="50%" align="center">
       <img
         align="center"
-        width="350"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=savidya9800&layout=compact&langs_count=6&custom_title=Most%20Used%20Languages&theme=default&hide_border=false&border_radius=12"
         alt="Most used programming languages"
         loading="lazy"
